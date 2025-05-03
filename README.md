@@ -1,4 +1,3 @@
-Fast React Pizza Co.
 # 🍕 Fast Pizza
 
 Fast Pizza is a fully responsive web application that allows users to browse a pizza menu, customize their orders, and optionally mark them as a priority for faster service. Built using modern frontend technologies, the app delivers a smooth and intuitive ordering experience.
